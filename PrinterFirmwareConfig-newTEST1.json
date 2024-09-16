@@ -5,7 +5,7 @@
       "FirmwareVersion": "10121",
       "FirmwareFullVersion": "V101.21.33Z",
       "FirmwareFileName": "ZQ320_Firmware_V101.21.33Z.zpl",
-      "FirmwareDownloadURL": "https://drive.google.com/file/d/1OlEcSBNw8U6kEJnA7otxrbzCs6ngFVin/view?usp=drive_link",
+      "FirmwareDownloadURL": "https://github.com/saayyf/PrinterTest/blob/main/ZQ320_Firmware_V101.21.33Z.zpl",
       "ForceUpdateFirmWareWhenMatchingWithRecommended" : false,
       "ForceDowngradeFirmwareToRecommended" : false,
       "BluetoothMinimumSecurityMode":4
