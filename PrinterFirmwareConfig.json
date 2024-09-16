@@ -2,10 +2,10 @@
   "PrintersConfig": [
     {
       "PrinterModel": "ZQ320",
-      "FirmwareVersion": "8120",
-      "FirmwareFullVersion": "V81.20.25Z.zpl",
-      "FirmwareFileName": "ZQ320_Firmware_V81.20.25Z.zpl",
-      "FirmwareDownloadURL": "https://saayyf.github.io/PrinterTest/ZQ320_Firmware_V81.20.25Z.zpl",
+      "FirmwareVersion": "10121",
+      "FirmwareFullVersion": "V101.21.33Z.zpl",
+      "FirmwareFileName": "ZQ320_Firmware_V101.21.33Z.zpl",
+      "FirmwareDownloadURL": "https://saayyf.github.io/PrinterTest/ZQ320_Firmware_V101.21.33Z.zpl",
       "ForceUpdateFirmWareWhenMatchingWithRecommended" : false,
       "ForceDowngradeFirmwareToRecommended" : false,
       "BluetoothMinimumSecurityMode":4
