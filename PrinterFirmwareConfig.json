@@ -1,7 +1,7 @@
 {
   "PrintersConfig": [
     {
-      "PrinterModel": "ZQ320",
+      "PrinterModel": "ZQ320 Plus",
       "FirmwareVersion": "10121",
       "FirmwareFullVersion": "V101.21.33Z.zpl",
       "FirmwareFileName": "ZQ320_Firmware_V101.21.33Z.zpl",
