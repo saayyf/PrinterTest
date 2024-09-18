@@ -9,7 +9,7 @@
       "ForceUpdateFirmWareWhenMatchingWithRecommended" : false,
       "ForceDowngradeFirmwareToRecommended" : false,
       "BluetoothMinimumSecurityMode":4
-    }
+    },
     {
       "PrinterModel": "ZQ320",
       "FirmwareVersion": "8120",
