@@ -8,7 +8,7 @@
       "FirmwareDownloadURL": "https://saayyf.github.io/PrinterTest/ZQ320_Firmware_V101.21.33Z.zpl",
       "ForceUpdateFirmWareWhenMatchingWithRecommended" : false,
       "ForceDowngradeFirmwareToRecommended" : false,
-      "BluetoothMinimumSecurityMode":1
+      "BluetoothMinimumSecurityMode":4
     },
     {
       "PrinterModel": "ZQ320",
@@ -18,7 +18,7 @@
       "FirmwareDownloadURL": "https://saayyf.github.io/PrinterTest/ZQ320_Firmware_V81.20.25Z.zpl",
       "ForceUpdateFirmWareWhenMatchingWithRecommended" : false,
       "ForceDowngradeFirmwareToRecommended" : false,
-      "BluetoothMinimumSecurityMode":1
+      "BluetoothMinimumSecurityMode":4
     }
   ]
 }
